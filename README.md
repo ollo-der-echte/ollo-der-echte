@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ollo-der-echte. You can call me ollo!
-- 👀 I’m interested in Pentesting and Programming!
-- 🌱 I’m currently trying to build a game console from scratch(well, except the raspberry pi 4 i'll be using)
-- 📫 How to reach me: Just message me over Discord: ollo#4292
+<h1 align="center">Hi 👋, I'm ollo</h1>
+<h3 align="center">A tech nerd and somebody who always likes to try out new topics.</h3>
 
-<!---
-ollo-der-echte/ollo-der-echte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **OSDev stuff**
+
+- 💬 Ask me about **nodeJS, discordJS, python and in general, algorithms.**
+
+- ⚡ Fun fact: **umfahren has the opposite meaning of the word itself.** lol
